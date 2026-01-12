@@ -66,7 +66,7 @@ Enabled data-driven environmental awareness
 
 Clone this repository:
 
-git clone https://github.com/your-username/AQI-PowerBI-Project.git
+git clone https://github.com/hp-3/AQI-INDEX-ANALYSIS.git
 
 
 Open AQI BI Project.pbix in Microsoft Power BI Desktop
